@@ -1,0 +1,919 @@
+Scenario data for Scen name:
+
+Terrain types for Scen name:
+  Terrain type 0: Cave Floor
+  Terrain type 1: Cave Floor
+  Terrain type 2: Grass
+  Terrain type 3: Grass
+  Terrain type 4: Grass
+  Terrain type 5: Cave Wall
+  Terrain type 6: Cave Wall
+  Terrain type 7: Cave Wall
+  Terrain type 8: Cave Wall
+  Terrain type 9: Cave Wall
+  Terrain type 10: Cave Wall
+  Terrain type 11: Cave Wall
+  Terrain type 12: Cave Wall
+  Terrain type 13: Cave Wall
+  Terrain type 14: Cave Wall
+  Terrain type 15: Cave Wall
+  Terrain type 16: Cave Wall
+  Terrain type 17: Cave Wall
+  Terrain type 18: Cave Wall
+  Terrain type 19: Cave Wall
+  Terrain type 20: Cave Wall
+  Terrain type 21: Cave Wall
+  Terrain type 22: Mountains
+  Terrain type 23: High Mountains
+  Terrain type 24: Mountains
+  Terrain type 25: Mountains
+  Terrain type 26: Mountains
+  Terrain type 27: Mountains
+  Terrain type 28: Mountains
+  Terrain type 29: Mountains
+  Terrain type 30: Mountains
+  Terrain type 31: Mountains
+  Terrain type 32: Mountains
+  Terrain type 33: Mountains
+  Terrain type 34: Mountains
+  Terrain type 35: Mountains
+  Terrain type 36: Hills
+  Terrain type 37: Hills
+  Terrain type 38: Hills
+  Terrain type 39: Hills
+  Terrain type 40: Hills
+  Terrain type 41: Hills
+  Terrain type 42: Hills
+  Terrain type 43: Hills
+  Terrain type 44: Hills
+  Terrain type 45: Hills
+  Terrain type 46: Hills
+  Terrain type 47: Hills
+  Terrain type 48: Hills
+  Terrain type 49: Hills
+  Terrain type 50: Water
+  Terrain type 51: Water
+  Terrain type 52: Water
+  Terrain type 53: Water
+  Terrain type 54: Water
+  Terrain type 55: Water
+  Terrain type 56: Water
+  Terrain type 57: Water
+  Terrain type 58: Water
+  Terrain type 59: Water
+  Terrain type 60: Water
+  Terrain type 61: Water
+  Terrain type 62: Water
+  Terrain type 63: Small Island
+  Terrain type 64: Rock in Water
+  Terrain type 65: Bridge
+  Terrain type 66: Bridge
+  Terrain type 67: Bridge
+  Terrain type 68: Bridge
+  Terrain type 69: Bridge
+  Terrain type 70: Bridge
+  Terrain type 71: Water
+  Terrain type 72: Bridge
+  Terrain type 73: Bridge
+  Terrain type 74: Rock in Water
+  Terrain type 75: Lava
+  Terrain type 76: Lava
+  Terrain type 77: Waterfall
+  Terrain type 78: Portal
+  Terrain type 79: Road
+  Terrain type 80: Road
+  Terrain type 81: Road
+  Terrain type 82: Walkway
+  Terrain type 83: Walkway
+  Terrain type 84: Rubble
+  Terrain type 85: Rubble
+  Terrain type 86: Rubble
+  Terrain type 87: Rubble
+  Terrain type 88: Rubble
+  Terrain type 89: Rubble
+  Terrain type 90: Pit/barrier
+  Terrain type 91: Cave Tree
+  Terrain type 92: Cave Tree
+  Terrain type 93: Mushrooms
+  Terrain type 94: Mushrooms
+  Terrain type 95: Small Pool
+  Terrain type 96: Swamp
+  Terrain type 97: Stalagmites
+  Terrain type 98: Small Stalagmites
+  Terrain type 99: Stone Fence
+  Terrain type 100: Stone Fence
+  Terrain type 101: Box
+  Terrain type 102: Body
+  Terrain type 103: Pile of Filth
+  Terrain type 104: Campfire
+  Terrain type 105: Crude Bed
+  Terrain type 106: Sign
+  Terrain type 107: Obelisk
+  Terrain type 108: Totems
+  Terrain type 109: Statue
+  Terrain type 110: Boulder
+  Terrain type 111: Swamp
+  Terrain type 112: Tree
+  Terrain type 113: Tree
+  Terrain type 114: Small Tree
+  Terrain type 115: Shrubbery
+  Terrain type 116: Huge Wall
+  Terrain type 117: Huge Wall
+  Terrain type 118: Crops
+  Terrain type 119: Stone Fence
+  Terrain type 120: Stone Fence
+  Terrain type 121: Sign
+  Terrain type 122: Wall
+  Terrain type 123: Wall
+  Terrain type 124: Wall w. Secret Door
+  Terrain type 125: Door
+  Terrain type 126: Locked Door
+  Terrain type 127: Locked Door
+  Terrain type 128: Locked Door
+  Terrain type 129: Open Door
+  Terrain type 130: Closed Portcullis
+  Terrain type 131: Open Portcullis
+  Terrain type 132: Sign
+  Terrain type 133: Cracked Wall
+  Terrain type 134: Moldy Wall
+  Terrain type 135: Wall
+  Terrain type 136: Wall w. Crossed Swords
+  Terrain type 137: Wall w. Painting
+  Terrain type 138: Wall w. Window
+  Terrain type 139: Basalt Wall
+  Terrain type 140: Basalt Wall
+  Terrain type 141: Basalt Wall w. Secret Door
+  Terrain type 142: Basalt Wall w. Door
+  Terrain type 143: Basalt Wall w. Locked Door
+  Terrain type 144: Basalt Wall w. Locked Door
+  Terrain type 145: Basalt Wall w. Locked Door
+  Terrain type 146: Basalt Wall w. Open Door
+  Terrain type 147: Closed Portcullis
+  Terrain type 148: Open Portcullis
+  Terrain type 149: Basalt Wall w. Runes
+  Terrain type 150: Cracked Basalt Wall
+  Terrain type 151: Moldy Basalt Wall
+  Terrain type 152: Basalt Wall
+  Terrain type 153: Basalt Wall w. Window
+  Terrain type 154: Abode Wall
+  Terrain type 155: Abode Wall
+  Terrain type 156: Abode Wall w. Secret Door
+  Terrain type 157: Abode Wall w. Door
+  Terrain type 158: Abode Wall w. Locked Door
+  Terrain type 159: Abode Wall w. Locked Door
+  Terrain type 160: Abode Wall w. Locked Door
+  Terrain type 161: Abode Wall w. Open Door
+  Terrain type 162: Closed Portcullis
+  Terrain type 163: Open Portcullis
+  Terrain type 164: Abode Wall w. Sign
+  Terrain type 165: Cracked Abode Wall
+  Terrain type 166: Moldy Abode Wall
+  Terrain type 167: Abode Wall
+  Terrain type 168: Abode Wall w. Trophy
+  Terrain type 169: Abode Wall w. Window
+  Terrain type 170: Floor
+  Terrain type 171: Floor
+  Terrain type 172: Floor
+  Terrain type 173: Floor w. Runes
+  Terrain type 174: Pedestal
+  Terrain type 175: Desk
+  Terrain type 176: Counter
+  Terrain type 177: Counter
+  Terrain type 178: Counter
+  Terrain type 179: Counter
+  Terrain type 180: Counter
+  Terrain type 181: Counter
+  Terrain type 182: Table
+  Terrain type 183: Table
+  Terrain type 184: Table
+  Terrain type 185: Table
+  Terrain type 186: Pedestal with Book
+  Terrain type 187: Pillar
+  Terrain type 188: Potted Plant
+  Terrain type 189: Statue
+  Terrain type 190: Statue
+  Terrain type 191: Bookshelf
+  Terrain type 192: Brazier
+  Terrain type 193: Good Altar
+  Terrain type 194: Chest
+  Terrain type 195: Chair
+  Terrain type 196: Chair
+  Terrain type 197: Chair
+  Terrain type 198: Chair
+  Terrain type 199: Bed
+  Terrain type 200: Throne
+  Terrain type 201: Dresser
+  Terrain type 202: Cauldron
+  Terrain type 203: Evil Altar
+  Terrain type 204: Rug
+  Terrain type 205: Anvil
+  Terrain type 206: Torch
+  Terrain type 207: Torch
+  Terrain type 208: Lever
+  Terrain type 209: Lever
+  Terrain type 210: Marble Floor
+  Terrain type 211: Marble Floor
+  Terrain type 212: Good Altar
+  Terrain type 213: Evil Altar
+  Terrain type 214: Brazier
+  Terrain type 215: Throne
+  Terrain type 216: Pillar
+  Terrain type 217: Floor
+  Terrain type 218: Statue
+  Terrain type 219: Sleeping Pad
+  Terrain type 220: Round Rug
+  Terrain type 221: Floor Box
+  Terrain type 222: Pedestal w. Crystal
+  Terrain type 223: Case
+  Terrain type 224: Runes
+  Terrain type 225: Seat
+  Terrain type 226: Table
+  Terrain type 227: Table
+  Terrain type 228: Table
+  Terrain type 229: Table
+  Terrain type 230: Table
+  Terrain type 231: Fire Pit
+  Terrain type 232: Town
+  Terrain type 233: Tower
+  Terrain type 234: Town
+  Terrain type 235: Hut
+  Terrain type 236: Hidden Town
+  Terrain type 237: Cave
+  Terrain type 238: Cave
+  Terrain type 239: Cave
+  Terrain type 240: Cave
+  Terrain type 241: Pit
+  Terrain type 242: Tower
+  Terrain type 243: City
+  Terrain type 244: City
+  Terrain type 245: City
+  Terrain type 246: Cave w. Special
+  Terrain type 247: Floor w. Special
+  Terrain type 248: Floor w. Special
+  Terrain type 249: Floor w. Special
+  Terrain type 250: Grass w. Special
+  Terrain type 251: Hills w. Special
+  Terrain type 252: Conveyor Belt
+  Terrain type 253: Conveyor Belt
+  Terrain type 254: Conveyor Belt
+  Terrain type 255: Conveyor Belt
+
+Monster types for Scen name:
+  Monster type 0: Empty
+  Monster type 1: Townsperson
+  Monster type 2: Townsperson
+  Monster type 3: Townsperson
+  Monster type 4: Townsperson
+  Monster type 5: Townsperson
+  Monster type 6: Townsperson
+  Monster type 7: Townsperson
+  Monster type 8: Townsperson
+  Monster type 9: Child
+  Monster type 10: Child
+  Monster type 11: Beggar
+  Monster type 12: Guard
+  Monster type 13: Soldier
+  Monster type 14: Captain
+  Monster type 15: Champion
+  Monster type 16: Bladesman
+  Monster type 17: Empire Dervish
+  Monster type 18: Brigand
+  Monster type 19: Archer
+  Monster type 20: Empire Archer
+  Monster type 21: Acolyte
+  Monster type 22: Priest
+  Monster type 23: High Priest
+  Monster type 24: Evil Acolyte
+  Monster type 25: Evil Priest
+  Monster type 26: Evil High Priest
+  Monster type 27: Apprentice Mage
+  Monster type 28: Mage
+  Monster type 29: Wizard
+  Monster type 30: Order Mage
+  Monster type 31: Witch
+  Monster type 32: Witch
+  Monster type 33: Official
+  Monster type 34: Official
+  Monster type 35: Assassin
+  Monster type 36: Monk
+  Monster type 37: Mad Monk
+  Monster type 38: Goblin
+  Monster type 39: Goblin Fighter
+  Monster type 40: Nephil
+  Monster type 41: Nephil Warrior
+  Monster type 42: Nephil Archer
+  Monster type 43: Nephil Shaman
+  Monster type 44: Nephil Chief
+  Monster type 45: Ogre
+  Monster type 46: Ogre Mage
+  Monster type 47: Slith
+  Monster type 48: Slith Warrior
+  Monster type 49: Slith Priest
+  Monster type 50: Slith Mage
+  Monster type 51: Slith High Priest
+  Monster type 52: Slith Archmage
+  Monster type 53: Slith Chief
+  Monster type 54: Cave Giant
+  Monster type 55: Giant Shaman
+  Monster type 56: Giant Chief
+  Monster type 57: Mutant Giant
+  Monster type 58: Skeleton
+  Monster type 59: Ruby Skeleton
+  Monster type 60: Zombie
+  Monster type 61: Ghost
+  Monster type 62: Ghoul
+  Monster type 63: Ghast
+  Monster type 64: Quickghast
+  Monster type 65: Spirit
+  Monster type 66: Wight
+  Monster type 67: Spectre
+  Monster type 68: Vampire
+  Monster type 69: Lich
+  Monster type 70: Hraithe
+  Monster type 71: Vahnavoi
+  Monster type 72: Giant Lizard
+  Monster type 73: Fire Lizard
+  Monster type 74: Ice Lizard
+  Monster type 75: Cave Slime
+  Monster type 76: Ice Slime
+  Monster type 77: Viscous Goo
+  Monster type 78: Cave Rat
+  Monster type 79: Vapor Rat
+  Monster type 80: Mung Rat
+  Monster type 81: Shambler
+  Monster type 82: Bat
+  Monster type 83: Drake
+  Monster type 84: Imp
+  Monster type 85: Demon
+  Monster type 86: Mung Demon
+  Monster type 87: Haakai
+  Monster type 88: Hordling
+  Monster type 89: Vahnatai
+  Monster type 90: Vahnatai Child
+  Monster type 91: Vahnatai Warrior
+  Monster type 92: Vahnatai Warrior
+  Monster type 93: Vahnatai Shaper
+  Monster type 94: Vahnatai Shaper
+  Monster type 95: Vahnatai Keeper
+  Monster type 96: Vahnatai Keeper
+  Monster type 97: Vahnatai Master
+  Monster type 98: Vahnatai Lord
+  Monster type 99: Serpent
+  Monster type 100: Asp
+  Monster type 101: Gazer
+  Monster type 102: Eyebeast
+  Monster type 103: Basilisk
+  Monster type 104: Ur-Basilisk
+  Monster type 105: Statue
+  Monster type 106: Living Statue
+  Monster type 107: Crystal Soul
+  Monster type 108: Lizard
+  Monster type 109: Cat
+  Monster type 110: Dog
+  Monster type 111: Cave Cow
+  Monster type 112: Cow
+  Monster type 113: Chicken
+  Monster type 114: Sheep
+  Monster type 115: Wolf
+  Monster type 116: Worg
+  Monster type 117: Bear
+  Monster type 118: Giant Spider
+  Monster type 119: Talking Spider
+  Monster type 120: Gremlin
+  Monster type 121: Black Shade
+  Monster type 122: Guardian
+  Monster type 123: Doomguard
+  Monster type 124: Poison Fungi
+  Monster type 125: Shade
+  Monster type 126: Deva
+  Monster type 127: Salamander
+  Monster type 128: Ice Drake
+  Monster type 129: Ice Pudding
+  Monster type 130: Chitrach
+  Monster type 131: Chitrach Larva
+  Monster type 132: Null Bug
+  Monster type 133: Giant Slug
+  Monster type 134: Spore Beast
+  Monster type 135: Rakshasa
+  Monster type 136: Naga
+  Monster type 137: Efreet
+  Monster type 138: Amber Slime
+  Monster type 139: Ochre Slime
+  Monster type 140: Emerald Slime
+  Monster type 141: Mauve Slime
+  Monster type 142: Alien Slime
+  Monster type 143: Cockroach
+  Monster type 144: Large Roach
+  Monster type 145: Giant Roach
+  Monster type 146: Mung Roach
+  Monster type 147: Guardian Roach
+  Monster type 148: Big Roach
+  Monster type 149: Troglodyte
+  Monster type 150: Troglodyte Warrior
+  Monster type 151: Troglodyte Shaman
+  Monster type 152: Troglodyte Khazi
+  Monster type 153: Troglodyte Defender
+  Monster type 154: Troglodyte Lord
+  Monster type 155: Hill Giant
+  Monster type 156: Hill Giant Fighter
+  Monster type 157: Hill Giant Shaman
+  Monster type 158: Hill Giant Chief
+  Monster type 159: Golem of Blades
+  Monster type 160: Fire Golem
+  Monster type 161: Ice Golem
+  Monster type 162: Jeweled Golem
+  Monster type 163: Demon Golem
+  Monster type 164: Power Crystal
+  Monster type 165: Mind Crystal
+  Monster type 166: Alien Beast
+  Monster type 167: Pack Leader
+  Monster type 168: Dark Wyrm
+  Monster type 169: Dryad
+  Monster type 170: Drake Lord
+  Monster type 171: Spiny Worm
+  Monster type 172: Ursag
+  Monster type 173: Gorgon
+  Monster type 174: Unicorn
+  Monster type 175: Slime Zombie
+  Monster type 176: Mung Slime
+  Monster type 177: Dragon
+  Monster type 178: Hydra
+  Monster type 179: Pyrohydra
+  Monster type 180: Cryohydra
+  Monster type 181: Baby Hydra
+  Monster type 182: Pixie
+  Monster type 183: Unicorn
+  Monster type 184: Kobold
+  Monster type 185: Centaur
+  Monster type 186: Centaur Chief
+  Monster type 187: Blood Beast
+  Monster type 188: Unused
+  Monster type 189: Unused
+  Monster type 190: Unused
+  Monster type 191: Unused
+  Monster type 192: Unused
+  Monster type 193: Unused
+  Monster type 194: Unused
+  Monster type 195: Unused
+  Monster type 196: Unused
+  Monster type 197: Unused
+  Monster type 198: Unused
+  Monster type 199: Unused
+  Monster type 200: Unused
+  Monster type 201: Unused
+  Monster type 202: Unused
+  Monster type 203: Unused
+  Monster type 204: Unused
+  Monster type 205: Unused
+  Monster type 206: Unused
+  Monster type 207: Unused
+  Monster type 208: Unused
+  Monster type 209: Unused
+  Monster type 210: Unused
+  Monster type 211: Unused
+  Monster type 212: Unused
+  Monster type 213: Unused
+  Monster type 214: Unused
+  Monster type 215: Unused
+  Monster type 216: Unused
+  Monster type 217: Unused
+  Monster type 218: Unused
+  Monster type 219: Unused
+  Monster type 220: Unused
+  Monster type 221: Unused
+  Monster type 222: Unused
+  Monster type 223: Unused
+  Monster type 224: Unused
+  Monster type 225: Unused
+  Monster type 226: Unused
+  Monster type 227: Unused
+  Monster type 228: Unused
+  Monster type 229: Unused
+  Monster type 230: Unused
+  Monster type 231: Unused
+  Monster type 232: Unused
+  Monster type 233: Unused
+  Monster type 234: Unused
+  Monster type 235: Unused
+  Monster type 236: Unused
+  Monster type 237: Unused
+  Monster type 238: Unused
+  Monster type 239: Unused
+  Monster type 240: Unused
+  Monster type 241: Unused
+  Monster type 242: Unused
+  Monster type 243: Unused
+  Monster type 244: Unused
+  Monster type 245: Unused
+  Monster type 246: Unused
+  Monster type 247: Unused
+  Monster type 248: Unused
+  Monster type 249: Unused
+  Monster type 250: Unused
+  Monster type 251: Unused
+  Monster type 252: Unused
+  Monster type 253: Unused
+  Monster type 254: Unused
+  Monster type 255: Unused
+
+Item types for Scen name:
+  Item type 0: Gold
+  Item type 1: Bread and Meat
+  Item type 2: Good Sandwich
+  Item type 3: Tasty Mushrooms
+  Item type 4: Pants
+  Item type 5: Pants
+  Item type 6: Shirt
+  Item type 7: Shirt
+  Item type 8: Robes
+  Item type 9: Rock
+  Item type 10: Rock
+  Item type 11: Stick
+  Item type 12: Stick
+  Item type 13: Mug
+  Item type 14: Plate
+  Item type 15: Bottle
+  Item type 16: Bottle
+  Item type 17: Candle
+  Item type 18: Lamp
+  Item type 19: Garbage
+  Item type 20: Garbage
+  Item type 21: Garbage
+  Item type 22: Garbage
+  Item type 23: Bones
+  Item type 24: Skull
+  Item type 25: Torches
+  Item type 26: Torches
+  Item type 27: Book
+  Item type 28: Book
+  Item type 29: Book
+  Item type 30: Vahnatai Robes
+  Item type 31: Stone Knife
+  Item type 32: Stone Short Sword
+  Item type 33: Stone Club
+  Item type 34: Stone Mace
+  Item type 35: Stone Axe
+  Item type 36: Stone Spear
+  Item type 37: Bronze Knife
+  Item type 38: Bronze Short Sword
+  Item type 39: Bronze Club
+  Item type 40: Bronze Mace
+  Item type 41: Bronze Axe
+  Item type 42: Bronze Spear
+  Item type 43: Bronze Hammer
+  Item type 44: Bronze Rapier
+  Item type 45: Bronze Broadsword
+  Item type 46: Bronze Flail
+  Item type 47: Bronze Bardiche
+  Item type 48: Bronze Halberd
+  Item type 49: Bronze Greatsword
+  Item type 50: Bronze Great Mace
+  Item type 51: Iron Knife
+  Item type 52: Iron Short Sword
+  Item type 53: Iron Mace
+  Item type 54: Iron Axe
+  Item type 55: Iron Spear
+  Item type 56: Iron Hammer
+  Item type 57: Iron Rapier
+  Item type 58: Iron Broadsword
+  Item type 59: Iron Flail
+  Item type 60: Iron Bardiche
+  Item type 61: Iron Halberd
+  Item type 62: Iron Greatsword
+  Item type 63: Iron Great Mace
+  Item type 64: Steel Knife
+  Item type 65: Steel Short Sword
+  Item type 66: Steel Mace
+  Item type 67: Steel Axe
+  Item type 68: Steel Spear
+  Item type 69: Steel Hammer
+  Item type 70: Steel Rapier
+  Item type 71: Steel Broadsword
+  Item type 72: Steel Flail
+  Item type 73: Steel Bardiche
+  Item type 74: Steel Halberd
+  Item type 75: Steel Greatsword
+  Item type 76: Steel Great Mace
+  Item type 77: Magic Knife
+  Item type 78: Magic Short Sword
+  Item type 79: Magic Mace
+  Item type 80: Magic Axe
+  Item type 81: Magic Spear
+  Item type 82: Magic Hammer
+  Item type 83: Magic Rapier
+  Item type 84: Magic Broadsword
+  Item type 85: Magic Flail
+  Item type 86: Magic Bardiche
+  Item type 87: Magic Halberd
+  Item type 88: Magic Greatsword
+  Item type 89: Magic Great Mace
+  Item type 90: Iron Slith Spear
+  Item type 91: Steel Slith Spear
+  Item type 92: Bronze Wave Blade
+  Item type 93: Iron Wave Blade
+  Item type 94: Steel Wave Blade
+  Item type 95: Magic Wave Blade
+  Item type 96: Iron Razordisks
+  Item type 97: Steel Razordisks
+  Item type 98: Darts
+  Item type 99: Iron Darts
+  Item type 100: Magic Darts
+  Item type 101: Throwing Knives
+  Item type 102: Iron Throwing Knives
+  Item type 103: Arrows
+  Item type 104: Iron Arrows
+  Item type 105: Magic Arrows
+  Item type 106: Javelins
+  Item type 107: Iron Javelins
+  Item type 108: Cavewood Bow
+  Item type 109: Lemonwood Bow
+  Item type 110: Yew Bow
+  Item type 111: Magic Bow
+  Item type 112: Crossbow
+  Item type 113: Fine Crossbow
+  Item type 114: Magic Crossbow
+  Item type 115: Bolts
+  Item type 116: Iron Bolts
+  Item type 117: Magic Bolts
+  Item type 118: Leather Sling
+  Item type 119: Magic Sling
+  Item type 120: Leather Baldric
+  Item type 121: Leather Armor
+  Item type 122: Bronze Studded Armor
+  Item type 123: Bronze Chain Mail
+  Item type 124: Bronze Breastplate
+  Item type 125: Bronze Plate
+  Item type 126: Iron Studded Armor
+  Item type 127: Iron Chain Mail
+  Item type 128: Iron Breastplate
+  Item type 129: Iron Plate
+  Item type 130: Steel Studded Armor
+  Item type 131: Steel Chain Mail
+  Item type 132: Steel Breastplate
+  Item type 133: Steel Plate
+  Item type 134: Magic Studded Armor
+  Item type 135: Magic Chain Mail
+  Item type 136: Magic Breastplate
+  Item type 137: Magic Plate
+  Item type 138: Mithral Chain Mail
+  Item type 139: Crude Buckler
+  Item type 140: Bronze Buckler
+  Item type 141: Iron Buckler
+  Item type 142: Steel Buckler
+  Item type 143: Magic Buckler
+  Item type 144: Crude Shield
+  Item type 145: Bronze Shield
+  Item type 146: Iron Shield
+  Item type 147: Steel Shield
+  Item type 148: Magic Shield
+  Item type 149: Crude Large Shield
+  Item type 150: Bronze Large Shield
+  Item type 151: Iron Large Shield
+  Item type 152: Steel Large Shield
+  Item type 153: Magic Large Shield
+  Item type 154: Leather Helm
+  Item type 155: Bronze Helm
+  Item type 156: Iron Helm
+  Item type 157: Steel Helm
+  Item type 158: Magic Helm
+  Item type 159: Leather Greathelm
+  Item type 160: Bronze Greathelm
+  Item type 161: Iron Greathelm
+  Item type 162: Steel Greathelm
+  Item type 163: Magic Greathelm
+  Item type 164: Leather Gloves
+  Item type 165: Bronze Gauntlets
+  Item type 166: Iron Gauntlets
+  Item type 167: Steel Gauntlets
+  Item type 168: Magic Gauntlets
+  Item type 169: Boots
+  Item type 170: Steel-Toed Boots
+  Item type 171: Lockpicks
+  Item type 172: Weak Poison
+  Item type 173: Medium Poison
+  Item type 174: Strong Poison
+  Item type 175: Killer Poison
+  Item type 176: Ruby
+  Item type 177: Sapphire
+  Item type 178: Fine Lockpicks
+  Item type 179: Magic Lockpicks
+  Item type 180: Orb of Sight
+  Item type 181: Smoky Crystal
+  Item type 182: Piercing Crystal
+  Item type 183: Mist Globe
+  Item type 184: Mist Globe
+  Item type 185: Mist Globe
+  Item type 186: Shielding Crystal
+  Item type 187: Goo Bomb
+  Item type 188: Orb of Foul Vapors
+  Item type 189: Dust of Hiding
+  Item type 190: Dust of Choking
+  Item type 191: Cleansing Powder
+  Item type 192: Gold Statue
+  Item type 193: Ivory Bug
+  Item type 194: Ebony Lizard
+  Item type 195: Horn of Warriors
+  Item type 196: Scroll: Flame
+  Item type 197: Scroll: Slow
+  Item type 198: Scroll: Poison
+  Item type 199: Scroll: Stealth
+  Item type 200: Scroll: Kill
+  Item type 201: Scroll: Ice Bolt
+  Item type 202: Scroll: Fireball
+  Item type 203: Scroll: Firestorm
+  Item type 204: Scroll: Shockstorm
+  Item type 205: Scroll: Shockwave
+  Item type 206: Scroll: Charm
+  Item type 207: Scroll: Magic Res.
+  Item type 208: Alabaster Lizard
+  Item type 209: Prismatic Wand
+  Item type 210: Crystal Wand
+  Item type 211: Brew of Knowledge
+  Item type 212: Brew of Ironskin
+  Item type 213: Brew of Battle
+  Item type 214: Brew of Lethe
+  Item type 215: Diamond
+  Item type 216: Emerald
+  Item type 217: Cursed Helm
+  Item type 218: Ruby Helm
+  Item type 219: Emerald Helm
+  Item type 220: Helm of Speed
+  Item type 221: Runed Helm
+  Item type 222: Crystal
+  Item type 223: Iron Bar
+  Item type 224: Silver Bar
+  Item type 225: Platinum bar
+  Item type 226: Nimble Gloves
+  Item type 227: Ogrish Gauntlets
+  Item type 228: Giantish Gauntlets
+  Item type 229: Glue Gauntlets
+  Item type 230: Aspskin Gloves
+  Item type 231: Micah's Gloves
+  Item type 232: Magic Boots
+  Item type 233: Dancing Boots
+  Item type 234: Boots of Apollo
+  Item type 235: Boots of Speed
+  Item type 236: Cursed Boots
+  Item type 237: Crystal Shield
+  Item type 238: Iceshield
+  Item type 239: Shield of Khar
+  Item type 240: Shield of Klin
+  Item type 241: Lifeshield
+  Item type 242: Shield of Klud
+  Item type 243: Martyr's Shield
+  Item type 244: Runeshield
+  Item type 245: Cursed Shield
+  Item type 246: Strong Curing P.
+  Item type 247: Strong Healing P.
+  Item type 248: Strong Energy P.
+  Item type 249: Strong Strength P.
+  Item type 250: Strong Speed P.
+  Item type 251: Strong Invuln. P.
+  Item type 252: Strong Skill P.
+  Item type 253: Medium Curing P.
+  Item type 254: Medium Healing P.
+  Item type 255: Medium Energy P.
+  Item type 256: Medium Strength P.
+  Item type 257: Medium Speed P.
+  Item type 258: Medium Invuln. P.
+  Item type 259: Medium Skill P.
+  Item type 260: Weak Curing P.
+  Item type 261: Weak Healing P.
+  Item type 262: Weak Energy P.
+  Item type 263: Weak Strength P.
+  Item type 264: Weak Speed P.
+  Item type 265: Weak Invuln. P.
+  Item type 266: Weak Skill P.
+  Item type 267: Ambrosia
+  Item type 268: Potion of Bliss
+  Item type 269: Poison Potion
+  Item type 270: Potion of Doom
+  Item type 271: Brew of Lethe
+  Item type 272: Potion of Clarity
+  Item type 273: Dart of Returning
+  Item type 274: Lightning Rods
+  Item type 275: Regenerating Arrows
+  Item type 276: Arrows of Light
+  Item type 277: Arrows of Life
+  Item type 278: Burning Arrows
+  Item type 279: Exploding Arrows
+  Item type 280: Archer's Bow
+  Item type 281: Bow of Kag
+  Item type 282: Poison Darts
+  Item type 283: Wand of Venom
+  Item type 284: Wand of Fireballs
+  Item type 285: Wand of Flame
+  Item type 286: Wand of Carrunos
+  Item type 287: Wand of Slow
+  Item type 288: Wand of Death
+  Item type 289: Wand of Charming
+  Item type 290: Wand of Nullity
+  Item type 291: Wand of Vorb
+  Item type 292: Wand of Rats
+  Item type 293: Gold Ring of Regen.
+  Item type 294: Gold Ring of Prot.
+  Item type 295: Gold Ring of Accuracy
+  Item type 296: Gold Ring of Skill
+  Item type 297: Gold Ring of Weight
+  Item type 298: Gold Ring
+  Item type 299: Gold Serpent Ring
+  Item type 300: Silver Ring of Regen.
+  Item type 301: Silver Ring of Prot.
+  Item type 302: Silver Ring of Accuracy
+  Item type 303: Silver Ring of Skill
+  Item type 304: Silver Ring of Weight
+  Item type 305: Silver Ring
+  Item type 306: Silver Serpent Ring
+  Item type 307: Bronze Ring of Regen.
+  Item type 308: Bronze Ring of Prot.
+  Item type 309: Bronze Ring of Accuracy
+  Item type 310: Bronze Ring of Skill
+  Item type 311: Bronze Ring of Weight
+  Item type 312: Bronze Ring
+  Item type 313: Bronze Serpent Ring
+  Item type 314: Ring of Warmth
+  Item type 315: Ring of Fire Res.
+  Item type 316: Ring of Speed
+  Item type 317: Ring of Will
+  Item type 318: Aescal's Ring
+  Item type 319: Silver Ankh
+  Item type 320: Amulet of the Cobra
+  Item type 321: Ruby Charm
+  Item type 322: Onyx Charm
+  Item type 323: Fang Necklace
+  Item type 324: Fire Orb Necklace
+  Item type 325: Diamond Necklace
+  Item type 326: Gold necklace
+  Item type 327: Lifesaver Amulet
+  Item type 328: Scale Necklace
+  Item type 329: Amber Periapt
+  Item type 330: Feldspar Charm
+  Item type 331: Ivory Charm
+  Item type 332: Silver necklace
+  Item type 333: Uranium bar
+  Item type 334: Gold bar
+  Item type 335: Graymold Salve
+  Item type 336: Ressurection Balm
+  Item type 337: Rough Diamond
+  Item type 338: Power Geode
+  Item type 339: Firestone
+  Item type 340: Ravage Knife
+  Item type 341: Assassin's Knife
+  Item type 342: Alien Blade
+  Item type 343: Demonslayer
+  Item type 344: Wyrmsbane
+  Item type 345: Flaming Sword
+  Item type 346: Smite
+  Item type 347: Mace of Disruption
+  Item type 348: Lodestone
+  Item type 349: Airy Stone
+  Item type 350: Basic Powder
+  Item type 351: Powder of Lethe
+  Item type 352: Potion of Paralysis
+  Item type 353: Ring of Free Action
+  Item type 354: Ring of Resistance
+  Item type 355: Basic Necklace
+  Item type 356: Wand of Paralysis
+  Item type 357: Wand of Acid
+  Item type 358: Helm of Alertness
+  Item type 359: Shield of Kron
+  Item type 360: Boltblade
+  Item type 361: Shield Mace
+  Item type 362: Quicksilver Band
+  Item type 363: Holly
+  Item type 364: Comfrey Root
+  Item type 365: Glowing Nettle
+  Item type 366: Wormgrass
+  Item type 367: Asptongue Mold
+  Item type 368: Graymold
+  Item type 369: Ember Flowers
+  Item type 370: Mandrake Root
+  Item type 371: Asp Fangs
+  Item type 372: Cursed Axe
+  Item type 373: Cursed Broadsword
+  Item type 374: Cursed Greatsword
+  Item type 375: Cursed Knife
+  Item type 376: Cursed Shield
+  Item type 377: Cursed Mace
+  Item type 378: Cursed Ring
+  Item type 379: Cursed Halberd
+  Item type 380: Silver Ore
+  Item type 381: Gold Ore
+  Item type 382: Mithral Broadsword
+  Item type 383: Empty
+  Item type 384: Empty
+  Item type 385: Empty
+  Item type 386: Empty
+  Item type 387: Empty
+  Item type 388: Empty
+  Item type 389: Empty
+  Item type 390: Empty
+  Item type 391: Empty
+  Item type 392: Empty
+  Item type 393: Empty
+  Item type 394: Empty
+  Item type 395: Empty
+  Item type 396: Empty
+  Item type 397: Empty
+  Item type 398: Empty
+  Item type 399: Empty

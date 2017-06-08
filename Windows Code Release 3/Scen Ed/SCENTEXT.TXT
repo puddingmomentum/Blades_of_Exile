@@ -1,0 +1,315 @@
+Scenario text for Scen name:
+
+Scenario Text:
+
+  Message 0: Scen name
+  Message 1: Who wrote 1 
+  Message 2: Who wrote 2
+  Message 3: Contact info
+  Message 4: 
+  Message 5: 
+  Message 6: 
+  Message 7: 
+  Message 8: 
+  Message 9: 
+  Message 10: Begin journal strs
+  Message 11: 
+  Message 12: 
+  Message 13: 
+  Message 14: 
+  Message 15: 
+  Message 16: 
+  Message 17: 
+  Message 18: 
+  Message 19: 
+  Message 20: 
+  Message 21: 
+  Message 22: 
+  Message 23: 
+  Message 24: 
+  Message 25: 
+  Message 26: 
+  Message 27: 
+  Message 28: 
+  Message 29: 
+  Message 30: 
+  Message 31: 
+  Message 32: 
+  Message 33: 
+  Message 34: 
+  Message 35: 
+  Message 36: 
+  Message 37: 
+  Message 38: 
+  Message 39: 
+  Message 40: 
+  Message 41: 
+  Message 42: 
+  Message 43: 
+  Message 44: 
+  Message 45: 
+  Message 46: 
+  Message 47: 
+  Message 48: 
+  Message 49: 
+  Message 50: 
+  Message 51: 
+  Message 52: 
+  Message 53: 
+  Message 54: 
+  Message 55: 
+  Message 56: 
+  Message 57: 
+  Message 58: 
+  Message 59: End journal strs
+  Message 60: Unused Special Item
+  Message 61: 
+  Message 62: Unused Special Item
+  Message 63: 
+  Message 64: Unused Special Item
+  Message 65: 
+  Message 66: Unused Special Item
+  Message 67: 
+  Message 68: Unused Special Item
+  Message 69: 
+  Message 70: Unused Special Item
+  Message 71: 
+  Message 72: Unused Special Item
+  Message 73: 
+  Message 74: Unused Special Item
+  Message 75: 
+  Message 76: Unused Special Item
+  Message 77: 
+  Message 78: Unused Special Item
+  Message 79: 
+  Message 80: Unused Special Item
+  Message 81: 
+  Message 82: Unused Special Item
+  Message 83: 
+  Message 84: Unused Special Item
+  Message 85: 
+  Message 86: Unused Special Item
+  Message 87: 
+  Message 88: Unused Special Item
+  Message 89: 
+  Message 90: Unused Special Item
+  Message 91: 
+  Message 92: Unused Special Item
+  Message 93: 
+  Message 94: Unused Special Item
+  Message 95: 
+  Message 96: Unused Special Item
+  Message 97: 
+  Message 98: Unused Special Item
+  Message 99: 
+  Message 100: Unused Special Item
+  Message 101: 
+  Message 102: Unused Special Item
+  Message 103: 
+  Message 104: Unused Special Item
+  Message 105: 
+  Message 106: Unused Special Item
+  Message 107: 
+  Message 108: Unused Special Item
+  Message 109: 
+  Message 110: Unused Special Item
+  Message 111: 
+  Message 112: Unused Special Item
+  Message 113: 
+  Message 114: Unused Special Item
+  Message 115: 
+  Message 116: Unused Special Item
+  Message 117: 
+  Message 118: Unused Special Item
+  Message 119: 
+  Message 120: Unused Special Item
+  Message 121: 
+  Message 122: Unused Special Item
+  Message 123: 
+  Message 124: Unused Special Item
+  Message 125: 
+  Message 126: Unused Special Item
+  Message 127: 
+  Message 128: Unused Special Item
+  Message 129: 
+  Message 130: Unused Special Item
+  Message 131: 
+  Message 132: Unused Special Item
+  Message 133: 
+  Message 134: Unused Special Item
+  Message 135: 
+  Message 136: Unused Special Item
+  Message 137: 
+  Message 138: Unused Special Item
+  Message 139: 
+  Message 140: Unused Special Item
+  Message 141: 
+  Message 142: Unused Special Item
+  Message 143: 
+  Message 144: Unused Special Item
+  Message 145: 
+  Message 146: Unused Special Item
+  Message 147: 
+  Message 148: Unused Special Item
+  Message 149: 
+  Message 150: Unused Special Item
+  Message 151: 
+  Message 152: Unused Special Item
+  Message 153: 
+  Message 154: Unused Special Item
+  Message 155: 
+  Message 156: Unused Special Item
+  Message 157: 
+  Message 158: Unused Special Item
+  Message 159: End special item descs
+
+Outdoor Sections Text:
+
+  Section X = 0, Y = 0:
+
+  Message 0: Area name
+  Message 1: Rectangle 1
+  Message 2: Rectangle 2
+  Message 3: Rectangle 3
+  Message 4: Rectangle 4
+  Message 5: Rectangle 5
+  Message 6: Rectangle 6
+  Message 7: Rectangle 7
+  Message 8: Rectangle 8
+  Message 9: Comment
+  Message 100: Warrior's Grove
+  Message 101: 
+  Message 102: 
+  Message 103: 
+  Message 104: 
+  Message 105: 
+  Message 106: 
+  Message 107: 
+
+Town Text:
+
+  Town: Warrior's Grove              
+
+  Town Messages:
+  Message 0: Warrior's Grove              
+  Message 1: Rectangle 1
+  Message 2: Rectangle 2
+  Message 3: Rectangle 3
+  Message 4: Rectangle 4
+  Message 5: Rectangle 5
+  Message 6: Rectangle 6
+  Message 7: Rectangle 7
+  Message 8: Rectangle 8
+  Message 9: Rectangle 9
+  Message 10: Rectangle 10
+  Message 11: Rectangle 11
+  Message 12: Rectangle 12
+  Message 13: Rectangle 13
+  Message 14: Rectangle 14
+  Message 15: Rectangle 15
+  Message 16: Rectangle 16
+  Message 17: Comment 1
+  Message 18: Comment 2
+  Message 19: Comment 3
+  Message 20: Do you wish to leave the scenario now?
+  Message 21: 
+  Message 22: 
+  Message 23: 
+  Message 24: 
+  Message 25: 
+  Message 26: You find a narrow, concealed walkway between two buildings. Webs hang frome ceiling, and the bones of unfortunate rats crunch underfoot.
+  Message 120: Training Arena|  All are welcome
+  Message 121: The sign has a bow and arrows painted on it.
+  Message 122: Walner - Sage|  Identification available|  Reasonable prices
+  Message 123: Warrior's Arms|  VACANCY
+  Message 124: Shrine of Divine Health
+  Message 125: Tools of Violence and Mayhem
+  Message 126: Step on this spot to end scenario.
+  Message 127: 
+  Message 128: 
+  Message 129: 
+  Message 130: 
+  Message 131: 
+  Message 132: 
+  Message 133: 
+  Message 134: 
+  Town Dialogue:
+  Personality 0 name: Vastro
+  Personality 0 look: You meet a massive, alarmingly muscled man, wearing polished armor. He appraises you carefully as you approach.
+  Personality 0 ask name: "I am Vastro, head trainer for Warrior's Grove."
+  Personality 0 ask job: "I am the trainer for the Grove. I trach people skills so they can survive in the surrounding lands."
+  Personality 0 confused: He shakes his head.
+  Personality 1 name: Rippel
+  Personality 1 look: A lovely woman with delicate features sits behind the counter. She is gluing bright blue feathers on the shafts of iron-tipped arrows.
+  Personality 1 ask name: "I am known as Rippel the fletcher. Welcome to my shop."
+  Personality 1 ask job: "I perform the same job I have performed in many strange lands. I create missile weapons of the finest quality. You may purchase them if you like."
+  Personality 1 confused: "I know not of which you speak."
+  Personality 2 name: Walner
+  Personality 2 look: A heavy set man sits behind the counter, wearing the traidition blue robes of an apprentice mage. The robes show a bit of wear and tear, as if he's been travelling for some time.
+  Personality 2 ask name: He nods in greeting. "I am called Walner."
+  Personality 2 ask job: "I am, I'm quite proud to say, a sage with no small experience. Whether in the fields of alchemy or identification, I can be of great assistance to you."
+  Personality 2 confused: He looks confused.
+  Personality 3 name: Marian
+  Personality 3 look: You interrupt a priestess. She concludes her chanting, turns, and bows to you. The ankh around her neck indicates some proficiency in the healing arts.
+  Personality 3 ask name: "I am Marian. Welcome to the Shrine of Divine Health."
+  Personality 3 ask job: "The Shrine of Divine Health is dedicated to all of the healing arts. It certainly comes in handy here in Warrior's Grove."
+  Personality 3 confused: She doesn't understand.
+  Personality 4 name: Gonski
+  Personality 4 look: You meet the shop proprietor, a scarred, withered old man. His leathery skin shows the signs of many years under the sun, and his arms have the thin pale lines left by many old wounds.
+  Personality 4 ask name: "I'm Gonski," he grunts.
+  Personality 4 ask job: He pats a nearby greatsword. "We got armor. We got weapons. We got shields. You can sell me your old stuff too."
+  Personality 4 confused: "Huh?"
+  Personality 5 name: Ella
+  Personality 5 look: You walk up to the innkeeper. She doesn't seem surprised in the least to see big, beefy adventurers in her bar.
+  Personality 5 ask name: She smiles. "I'm Ella, owner of the Warrior's Arms. How may I help you?"
+  Personality 5 ask job: "We have all the things adventurers need. We can give you a room to rest in for the night, for only 5 gold. We have cheap rations available. And, of course, a tankard of beer is only a gold piece."
+  Personality 5 confused: She smiles an shakes her head. "You'll have to make more sense than that."
+  Personality 6 name: 
+  Personality 6 look: 
+  Personality 6 ask name: 
+  Personality 6 ask job: 
+  Personality 6 confused: 
+  Personality 7 name: 
+  Personality 7 look: 
+  Personality 7 ask name: 
+  Personality 7 ask job: 
+  Personality 7 confused: 
+  Personality 8 name: 
+  Personality 8 look: 
+  Personality 8 ask name: 
+  Personality 8 ask job: 
+  Personality 8 confused: 
+  Personality 9 name: 
+  Personality 9 look: 
+  Personality 9 ask name: 
+  Personality 9 ask job: 
+  Personality 9 confused: 
+  Node 1: "That's where you are now."
+  Node 2: "I know not what you will find in the lands surrounding Warrior's Grove. You may rest assured, however, that they are filled with adventure, treasure, and direst peril."
+  Node 2: "Perhaps you would like some training to help you survive?"
+  Node 3: She sighs. "Before I came to Warrior's Grove, I practiced my trade in many cities, both on the surface and in Exile."
+  Node 4: "I can hardly remember all the cities I have worked in. All I know is that there wll surely be many more."
+  Node 5: Rippel's Fletching
+  Node 6: "Adventures. Wars. Hordes of rampaging demons. I've seen it all."
+  Node 7: He looks over your items with a practiced eye. It only takes a moment to figure out what each one is. With a smile, he says "No problem. Each identification will be a mere 10 gold."
+  Node 8: Walner's potions
+  Node 9: "Are you interested in identification or potions?"
+  Node 10: He coughs modestly. "Why, my identification skills alone make me invaluable to adventurers."
+  Node 11: Marian the Healer
+  Node 12: "We priests and priestesses of healing dedicate ourselves to the restoration of those who fall ill, break bones, are gnawed on by monsters, that sort of thing."
+  Node 13: "I don't know what's going on outside these walls. However, considering the number of mutilated people that have been coming back lately, it must be something unpleasant."
+  Node 14: "We got all sorts of weapons here. You'll need to be well equipped when you leave town."
+  Node 15: "There's plenty of monsters out there." He snorts. "Probably too much for the likes of you. But itf you want to have a chance, you want some of my weapons."
+  Node 16: Fine Weapons
+  Node 17: Fine Armor
+  Node 18: Fine Shields
+  Node 19: "Weapons, armor, or shields?"
+  Node 20: He looks over your surplus goods. "A pretty sorry lot. Still, I might be able to offer you a little for it." He makes an offer for all of your identified items.
+  Node 21: "A room, rations, or beer?"
+  Node 22: She shows you to your room, and wishes you a pleasant night.
+  Node 22: She shakes her head. "Sorry, but that's 5 gold."
+  Node 23: Fine Rations
+  Node 24: She serves up the beer. It's refreshing, in a nasty sort of way.
+  Node 24: She looks pityingly upon you. "Not a gold piece to your name. How sad."
+  Node 25: "Yes. Oh, and please bandage your wounds before going to your room. It's a great pain to clean the blood out of the blankets."
+

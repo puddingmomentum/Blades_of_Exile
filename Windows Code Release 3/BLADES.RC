@@ -1,0 +1,237 @@
+/****************************************************************************
+
+
+EXILE.RC
+
+produced by Borland Resource Workshop
+
+
+*****************************************************************************/
+
+#define CURSOR_1	1
+#define WAVE	100
+#define DIALOG_2	2
+#define DIALOG_1	1
+#define ACCELERATORS_1	1
+#define MENU_2	2
+#define MENU_1	1
+#define Exile	1
+
+Exile MENU 
+{
+ POPUP "&File"
+ {
+  MENUITEM "&Open Game\tCtrl+O", 1
+  MENUITEM "&Save Game\tCtrl+S", 2
+  MENUITEM "Save As...", 3
+  MENUITEM "&New Game\tCtrl+N", 4
+  MENUITEM SEPARATOR
+  MENUITEM "Preferences", 6
+  MENUITEM SEPARATOR
+  MENUITEM "&Quit\tCtrl+Q", 8
+ }
+
+ POPUP "&Options"
+ {
+  MENUITEM "Pick New PC Graphic", 21
+  MENUITEM "Pick New PC Name", 22
+  MENUITEM "Create New PC", 23
+  MENUITEM "Delete PC", 24
+  MENUITEM SEPARATOR
+  MENUITEM "See Talking Notes", 27
+  MENUITEM "See Encounter Notes", 28
+  MENUITEM "See Overall Party Stats", 29
+ }
+
+ POPUP "Help"
+ {
+  MENUITEM "Outdoor Commands", 41
+  MENUITEM "Town Commands", 42
+  MENUITEM "Combat Commands", 43
+  MENUITEM "Magic Barrier Help", 44
+  MENUITEM SEPARATOR
+  MENUITEM "Hints, Bugs, and Comments", 46
+  MENUITEM "Spell Casting Help", 47
+ }
+
+ POPUP "&Library"
+ {
+  MENUITEM "Mage Spells", 61
+  MENUITEM "Priest Spells", 62
+  MENUITEM "Skill Info", 63
+  MENUITEM "Alchemy/Poison", 64
+  MENUITEM "Tip of the Day", 65
+  MENUITEM SEPARATOR
+  MENUITEM "Show Introductory Dialog", 67
+ }
+
+ POPUP "&Actions"
+ {
+  MENUITEM "Do Alchemy\tCtrl+A", 81
+  MENUITEM "Wait 40 Moves\tCtrl+W", 82
+  MENUITEM "Display AutoMap\tCtrl+M", 84
+ }
+
+ POPUP "&Monsters"
+ {
+  MENUITEM "About this menu", 599
+ }
+
+ POPUP "&Cast Mage"
+ {
+  MENUITEM "About this menu", 399
+ }
+
+ POPUP "&Cast Priest"
+ {
+  MENUITEM "About this menu", 499
+ }
+
+ POPUP "&Help"
+ {
+  MENUITEM "Index\tF1", 100
+  MENUITEM SEPARATOR
+  MENUITEM "About Blades of Exile", 200
+ }
+
+}
+
+ACCELERATORS_1 ACCELERATORS 
+{
+ VK_F1, 100, VIRTKEY
+ "^W", 82, ASCII
+ "^O", 1, ASCII
+ "^S", 2, ASCII
+ "^Q", 8, ASCII
+ "^M", 84, ASCII
+ "^A", 81, ASCII
+}
+
+89 CURSOR "../blades/ul.cur"
+90 CURSOR "../blades/u.cur"
+110 CURSOR "../blades/d.cur"
+91 CURSOR "../blades/ur.cur"
+99 CURSOR "../blades/l.cur"
+100 CURSOR "../blades/c.cur"
+101 CURSOR "../blades/r.cur"
+109 CURSOR "../blades/dl.cur"
+111 CURSOR "../blades/dr.cur"
+
+120 CURSOR "../blades/sword.cur"
+
+
+126 CURSOR "../blades/talk.cur"
+
+
+124 CURSOR "../blades/target.cur"
+
+
+122 CURSOR "../blades/key.cur"
+
+129 CURSOR "../blades/look.cur"
+
+10 ICON "../blades/bladexil.ico"
+
+
+1 WAVE "../blades/snd0.wav"
+2 WAVE "../blades/snd1.wav"
+3 WAVE "../blades/snd2.wav"
+4 WAVE "../blades/snd3.wav"
+5 WAVE "../blades/snd4.wav"
+6 WAVE "../blades/snd5.wav"
+7 WAVE "../blades/snd6.wav"
+8 WAVE "../blades/snd7.wav"
+9 WAVE "../blades/snd8.wav"
+10 WAVE "../blades/snd9.wav"
+11 WAVE "../blades/snd10.wav"
+12 WAVE "../blades/snd11.wav"
+13 WAVE "../blades/snd12.wav"
+14 WAVE "../blades/snd13.wav"
+15 WAVE "../blades/snd14.wav"
+16 WAVE "../blades/snd15.wav"
+17 WAVE "../blades/snd16.wav"
+18 WAVE "../blades/snd17.wav"
+19 WAVE "../blades/snd18.wav"
+20 WAVE "../blades/snd19.wav"
+21 WAVE "../blades/snd20.wav"
+22 WAVE "../blades/snd21.wav"
+23 WAVE "../blades/snd22.wav"
+24 WAVE "../blades/snd23.wav"
+25 WAVE "../blades/snd24.wav"
+26 WAVE "../blades/snd25.wav"
+27 WAVE "../blades/snd26.wav"
+28 WAVE "../blades/snd27.wav"
+29 WAVE "../blades/snd28.wav"
+30 WAVE "../blades/snd29.wav"
+31 WAVE "../blades/snd30.wav"
+32 WAVE "../blades/snd31.wav"
+33 WAVE "../blades/snd32.wav"
+34 WAVE "../blades/snd33.wav"
+35 WAVE "../blades/snd34.wav"
+36 WAVE "../blades/snd35.wav"
+37 WAVE "../blades/snd36.wav"
+38 WAVE "../blades/snd37.wav"
+39 WAVE "../blades/snd38.wav"
+40 WAVE "../blades/snd39.wav"
+41 WAVE "../blades/snd40.wav"
+42 WAVE "../blades/snd41.wav"
+43 WAVE "../blades/snd42.wav"
+44 WAVE "../blades/snd43.wav"
+45 WAVE "../blades/snd44.wav"
+46 WAVE "../blades/snd45.wav"
+47 WAVE "../blades/snd46.wav"
+48 WAVE "../blades/snd47.wav"
+49 WAVE "../blades/snd48.wav"
+50 WAVE "../blades/snd49.wav"
+51 WAVE "../blades/snd50.wav"
+52 WAVE "../blades/snd51.wav"
+53 WAVE "../blades/snd52.wav"
+54 WAVE "../blades/snd53.wav"
+55 WAVE "../blades/snd54.wav"
+56 WAVE "../blades/snd55.wav"
+57 WAVE "../blades/snd56.wav"
+58 WAVE "../blades/snd57.wav"
+59 WAVE "../blades/snd58.wav"
+60 WAVE "../blades/snd59.wav"
+61 WAVE "../blades/snd60.wav"
+62 WAVE "../blades/snd61.wav"
+63 WAVE "../blades/snd62.wav"
+64 WAVE "../blades/snd63.wav"
+65 WAVE "../blades/snd64.wav"
+66 WAVE "../blades/snd65.wav"
+67 WAVE "../blades/snd66.wav"
+68 WAVE "../blades/snd67.wav"
+69 WAVE "../blades/snd68.wav"
+70 WAVE "../blades/snd69.wav"
+71 WAVE "../blades/snd70.wav"
+72 WAVE "../blades/snd71.wav"
+73 WAVE "../blades/snd72.wav"
+74 WAVE "../blades/snd73.wav"
+75 WAVE "../blades/snd74.wav"
+76 WAVE "../blades/snd75.wav"
+77 WAVE "../blades/snd76.wav"
+78 WAVE "../blades/snd77.wav"
+79 WAVE "../blades/snd78.wav"
+80 WAVE "../blades/snd79.wav"
+81 WAVE "../blades/snd80.wav"
+82 WAVE "../blades/snd81.wav"
+83 WAVE "../blades/snd82.wav"
+84 WAVE "../blades/snd83.wav"
+85 WAVE "../blades/snd84.wav"
+86 WAVE "../blades/snd85.wav"
+87 WAVE "../blades/snd86.wav"
+88 WAVE "../blades/snd87.wav"
+89 WAVE "../blades/snd88.wav"
+90 WAVE "../blades/snd89.wav"
+91 WAVE "../blades/snd90.wav"
+92 WAVE "../blades/snd91.wav"
+93 WAVE "../blades/snd92.wav"
+94 WAVE "../blades/snd93.wav"
+95 WAVE "../blades/snd94.wav"
+96 WAVE "../blades/snd95.wav"
+97 WAVE "../blades/snd96.wav"
+98 WAVE "../blades/snd97.wav"
+99 WAVE "../blades/snd98.wav"
+100 WAVE "../blades/snd99.wav"
+
+
